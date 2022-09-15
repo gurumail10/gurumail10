@@ -1,5 +1,5 @@
 ### Hi there I'm [Gurbaksh](https://www.linkedin.com/in/gurbaksh-sharma-56aaa8157/) 👋
-I'm a Sr. Data Scientist at Treasure-Data.
+I'm a ***Sr. Data Scientist at Treasure-Data.
 <!--
 **gurumail10/gurumail10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
