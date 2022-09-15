@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there I'm Gurbaksh 👋
+I'm a data scientist at Insight. I'm passionate about neural networks and computer vision.
 <!--
 **gurumail10/gurumail10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
