@@ -1,5 +1,7 @@
 ### Hi there I'm [Gurbaksh](https://www.linkedin.com/in/gurbaksh-sharma-56aaa8157/) 👋
 I'm a **Sr. Data Scientist** at Treasure-Data.
+
+Data Scientist and thought leader with 4+ years of industry experience in spearheading and leading mission critical projects in Applied Science and Machine Learning. Experienced in building and deploying Machine Learning, Reinforcement Learning and Optimization projects in production at scale. Proven track record of developing early careers talent in data science as a tech lead, mentoring project collaborators and other data scientists through promotions.
 <!--
 **gurumail10/gurumail10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
