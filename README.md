@@ -3,7 +3,7 @@ I'm a **Sr. Data Scientist** at Treasure-Data.
 
 ![](https://komarev.com/ghpvc/?username=gurumail10&label=PROFILE+VIEWS)
 
-Data Scientist and thought leader with 4+ years of industry experience in spearheading and leading mission critical projects in Applied Science and Machine Learning.
+
 <!--
 **gurumail10/gurumail10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
